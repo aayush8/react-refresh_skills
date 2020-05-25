@@ -2,20 +2,20 @@
 
 ### `component`
 
-![image](./assets/1-comp.png)
+![image](assets/1-comp.png)
 
 ### `props`
 
-![image](./assets/props.png)
+![image](assets/props.png)
 
 ### `state`
 
-![image](./assets/state.png)
+![image](assets/state.png)
 
 ### `context`
 
-![image](./assets/context.png)
+![image](assets/context.png)
 
 ### `routing`
 
-![image](./assets/routing.png)
+![image](assets/routing.png)
